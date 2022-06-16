@@ -1,0 +1,3 @@
+[submodule "HR-notes"]
+	path = HR-notes
+	url = git@github.com:rio-tinto/HR-notes.git
