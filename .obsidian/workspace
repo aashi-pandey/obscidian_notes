@@ -1,13 +1,13 @@
 {
   "main": {
-    "id": "f0d38c1a2d911e68",
+    "id": "671653544b94c4c0",
     "type": "split",
     "children": [
       {
-        "id": "405083aa90647d8d",
+        "id": "1a4d1ed710c44d3d",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9d1cc3f1c306f946",
+    "id": "cb5fe21e517f1b7a",
     "type": "split",
     "children": [
       {
-        "id": "a68550499846d534",
+        "id": "97b65b699796e014",
         "type": "tabs",
         "children": [
           {
-            "id": "351a6f1756275fc3",
+            "id": "8e250752166d5560",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +31,7 @@
             }
           },
           {
-            "id": "9e4082c4f8a5b9b0",
+            "id": "ad4cbd9a97501cac",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,15 +52,15 @@
     "width": 300
   },
   "right": {
-    "id": "99957aeef674e4d7",
+    "id": "b3c0550c7d4de4bf",
     "type": "split",
     "children": [
       {
-        "id": "3b8c08546f82f899",
+        "id": "739405df86dca802",
         "type": "tabs",
         "children": [
           {
-            "id": "1efe3766697b8933",
+            "id": "439003ea64a56439",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -82,8 +82,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "405083aa90647d8d",
-  "lastOpenFiles": [
-    "First note.md"
-  ]
+  "active": "1a4d1ed710c44d3d",
+  "lastOpenFiles": []
 }
